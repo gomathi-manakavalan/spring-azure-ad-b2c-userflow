@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.ascension.userregazureadb2c.UserRegAzureAdB2cApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.27 s - in org.ascension.userregazureadb2c.UserRegAzureAdB2cApplicationTests
